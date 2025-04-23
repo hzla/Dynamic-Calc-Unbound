@@ -2255,6 +2255,7 @@ $(document).ready(function() {
             // final_type_chart = construct_type_chart()
             SETDEX_BW = formatted_sets[MODE]
             setdex = formatted_sets[MODE]
+            moves = unbound_moves
 
             load_js()
 
