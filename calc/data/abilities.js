@@ -364,7 +364,8 @@ SS = SS.concat([
     "Strong Body",
     "Exploit",
     "Determined",
-    "Illumination"
+    "Illumination",
+    "Portal Power"
 ]);
 
 
